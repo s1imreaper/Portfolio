@@ -9,7 +9,7 @@ Broad EDA on shipping, reviews, price, customers, etc. Detailed analysis of mark
 [UCI Machine Learning "What Makes a Good Student?"](https://github.com/s1imreaper/datasci/blob/777d4177366e874329acf19a55adeb957ade3661/what-makes-a-good-student-eda.ipynb) <br> 
 EDA and Visualizations on UCI Test Scores and Alcohol Consumption Dataset. 
 Linear Regression, SVM, NaiveBayes to predict test scores and alcohol consumption by students. Model predicts final exam scores with 92% accuracy using first two exam scores, parents education levels, and study time. <br> <br>
-[InceptionV3 Intel Classification](https://github.com/s1imreaper/datasci/blob/c7a8b4877c8df4d172f138475404dd3c221c54c8/inceptionv3-88-classification.ipynb)<br> 
+[InceptionV3 Intel Classification](https://github.com/s1imreaper/datasci/blob/c7a8b4877c8df4d172f138475404dd3c221c54c8/inceptionv3-88-classification.ipynb)<br> <img align = 'right' src="fieldtilt.png" height = 391 width = 300>
 Intel Computer Vision classification using deep neural networks and InceptionV3. 90% on test data. Additional validation from non-dataset images. <br><br>
 [Spotify x Youtube EDA + Artist Classification Model](https://github.com/s1imreaper/datasci/blob/b48786d8e94dc1d183cd074eb5a63549f305f55c/spotify-yt-top-songs-eda-artist-classification.ipynb)<br>
 Spotify and Youtube top songs EDA and artist classification model. <br><br>

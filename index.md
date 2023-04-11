@@ -1,6 +1,13 @@
-### by tejas rao
+### 
+<img align = 'right' src="tejphoto.png" height = 250 width = 190>
 
-This is really just an archive of any data science or machine learning projects I have done or am currently working on. 
+Hi! My name is Tejas and I'm a junior at NYU majoring in Data Science with a minor in Math and CS. I'm fascinated by the power of data and its potential to drive innovation across all disciplines. However, the two particular domains that I am currently most interested are sports and medicine.
+
+I believe that data science in sports can help teams make better decisions, improve player performance, and ultimately increase their chances of success. 
+Likewise, with the abundance of data in healthcare, there is a tremendous opportunity to use data science to identify patterns, predict outcomes, and improve patient care. My aim is to use data science and mathematics for insight. 
+
+This is just an archive of my data science and machine learning projects. 
+
 
 ## notebooks
 

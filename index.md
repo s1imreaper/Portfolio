@@ -2,12 +2,8 @@
 
 This is really just an archive of any data science projects I have done or am currently working on. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. Let me test a link to a notebook. 
 [Olist Brazil EDA and Market Channel Analysis](https://github.com/s1imreaper/datasci/blob/019930029e0016651032afbd8cdbefb7d28005ce/eda-and-rough-sentiment-analysis.ipynb)
+[UCI Machine Learning "What Makes a Good Student?"](https://github.com/s1imreaper/datasci/blob/777d4177366e874329acf19a55adeb957ade3661/what-makes-a-good-student-eda.ipynb)
 
 ```markdown
 Syntax highlighted code block

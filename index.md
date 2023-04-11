@@ -1,4 +1,4 @@
-### by - tejas rao
+### by tejas rao
 
 This is really just an archive of any data science or machine learning projects I have done or am currently working on. 
 

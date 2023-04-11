@@ -1,4 +1,3 @@
-### 
 <img align = 'right' src="tejphoto.png" height = 250 width = 190>
 
 Hi! My name is Tejas and I'm a junior at NYU majoring in Data Science with a minor in Math and CS. I'm fascinated by the power of data and its potential to drive innovation across all disciplines. However, the two particular domains that I am currently most interested are sports and medicine.

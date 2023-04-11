@@ -12,6 +12,7 @@ Linear Regression, SVM, NaiveBayes to predict test scores and alcohol consumptio
 [InceptionV3 Intel Classification](https://github.com/s1imreaper/datasci/blob/c7a8b4877c8df4d172f138475404dd3c221c54c8/inceptionv3-88-classification.ipynb)<br> 
 Intel Computer Vision classification using deep neural networks and InceptionV3. 90% on test data. Additional validation from non-dataset images. <br><br>
 [Spotify x Youtube EDA + Artist Classification Model](https://github.com/s1imreaper/datasci/blob/b48786d8e94dc1d183cd074eb5a63549f305f55c/spotify-yt-top-songs-eda-artist-classification.ipynb)<br>
+Spotify and Youtube top songs EDA and artist classification model. <br><br>
 [Premier League Viz](https://github.com/s1imreaper/datasci/blob/b48786d8e94dc1d183cd074eb5a63549f305f55c/premier-league-visualizations%20(1).ipynb)<br>
 FieldTilt, xG, xGA, and visualization of other premier league advanced statistics. Some use of NLP in scraping commentary transcripts and Feature Engineering. Histograms, Scatterplots, and other simple visualizations with advanced metrics. <br> <br>
 [NaiveBayes on Heart Attack Likelihood and EDA](https://github.com/s1imreaper/datasci/blob/b48786d8e94dc1d183cd074eb5a63549f305f55c/simple-eda-on-heartattack-dataset.ipynb)<br>

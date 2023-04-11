@@ -4,7 +4,7 @@ This is really just an archive of any data science or machine learning projects 
 
 ### notebooks
 
-[Olist Brazil EDA and Market Channel Analysis](https://github.com/s1imreaper/datasci/blob/019930029e0016651032afbd8cdbefb7d28005ce/eda-and-rough-sentiment-analysis.ipynb) <br> 
+[Olist Brazil EDA and Market Channel Analysis](https://github.com/s1imreaper/datasci/blob/019930029e0016651032afbd8cdbefb7d28005ce/eda-and-rough-sentiment-analysis.ipynb) <br> <br>
 Broad EDA on shipping, reviews, price, customers, etc. Detailed analysis of marketing channels and conversion rates. Sentiment Analysis on reviews and slight analysis on conversion rates and marketing channels. Word plots grouped by sentiment in Portuguese. 
 [UCI Machine Learning "What Makes a Good Student?"](https://github.com/s1imreaper/datasci/blob/777d4177366e874329acf19a55adeb957ade3661/what-makes-a-good-student-eda.ipynb) <br> 
 EDA and Visualizations on UCI Test Scores and Alcohol Consumption Dataset. 

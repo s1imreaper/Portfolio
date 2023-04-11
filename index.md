@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. Let me test a link to a notebook. 
-[https://github.com/s1imreaper/datasci/blob/main/eda-and-rough-sentiment-analysis.ipynb](url)
+[eda-and-rough-sentiment-analysis.ipynb](url)
 
 ```markdown
 Syntax highlighted code block

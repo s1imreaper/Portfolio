@@ -9,8 +9,9 @@ This is just an archive of my data science and machine learning projects.
 
 
 ## notebooks
-
-[The Best Attackers of the 2000s (Simple EDA)](https://github.com/s1imreaper/vault/blob/main/the-best-attackers-of-the-2000s%20(1).ipynb)
+[Random Forest XGB Catboost Ensemble on Kidney Stone Dataset](https://github.com/s1imreaper/vault/blob/main/random-forest-xgb-catboost-ensemble-t40.ipynb)<br>
+[The Best Attackers of the 2000s (Simple EDA)](https://github.com/s1imreaper/vault/blob/main/the-best-attackers-of-the-2000s%20(1).ipynb)<br>
+Simple Analysis of FBref x Opta Data over last 23 Years. <br><br>
 [Olist Brazil EDA and Market Channel Analysis](https://github.com/s1imreaper/datasci/blob/019930029e0016651032afbd8cdbefb7d28005ce/eda-and-rough-sentiment-analysis.ipynb) <br> 
 Broad EDA on shipping, reviews, price, customers, etc. Detailed analysis of marketing channels and conversion rates. Sentiment Analysis on reviews and slight analysis on conversion rates and marketing channels. Word plots grouped by sentiment in Portuguese. <br><br>
 [UCI Machine Learning "What Makes a Good Student?"](https://github.com/s1imreaper/datasci/blob/777d4177366e874329acf19a55adeb957ade3661/what-makes-a-good-student-eda.ipynb) <br> 

@@ -29,3 +29,5 @@ FieldTilt, xG, xGA, and visualization of other premier league advanced statistic
 EDA and Classification on Heart Attack Dataset. 
 Employment of DecisionTrees, LassoRegression, GaussianNB for prediction. 77% score on prediction of heart attack using resting ecg, maximum heart rate of patients, and anginal pain type. <br> <br>
 
+## links
+<a href = 'tab.html'></a>

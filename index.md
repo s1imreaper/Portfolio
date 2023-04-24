@@ -30,4 +30,4 @@ EDA and Classification on Heart Attack Dataset.
 Employment of DecisionTrees, LassoRegression, GaussianNB for prediction. 77% score on prediction of heart attack using resting ecg, maximum heart rate of patients, and anginal pain type. <br> <br>
 
 ## links
-<a href = 'tab.html'>Tableau Dashboards</a> --> A dump of Tableau Dashboard's I've made while practicing. 
+<a href = 'tab.html'>Tableau Dashboards</a> --> A dump of Tableau dashboards I've made while practicing. 

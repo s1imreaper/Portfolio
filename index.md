@@ -7,6 +7,9 @@ Likewise, with the abundance of data in healthcare, there is a tremendous opport
 
 This is just an archive of my data science and machine learning projects. 
 
+## projects
+[Stock Market Open Predictions Using Public Sentiment](https://github.com/s1imreaper/vault/blob/main/random-forest-xgb-catboost-ensemble-t40.ipynb)<br> Random Forest XGB Catboost Ensemble for Kaggle Playground Competition. Placed (427/1088). <br><br>
+
 
 ## notebooks
 [Random Forest XGB Catboost Ensemble on Kidney Stone Dataset](https://github.com/s1imreaper/vault/blob/main/random-forest-xgb-catboost-ensemble-t40.ipynb)<br> Random Forest XGB Catboost Ensemble for Kaggle Playground Competition. Placed (427/1088). <br><br>

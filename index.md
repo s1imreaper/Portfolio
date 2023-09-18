@@ -8,7 +8,7 @@ Likewise, with the abundance of data in healthcare, there is a tremendous opport
 This is just an archive of my data science and machine learning projects. 
 
 ## projects
-[Predicting Stock Market Opens Using Public Sentiment](https://github.com/s1imreaper/vault/blob/main/random-forest-xgb-catboost-ensemble-t40.ipynb)<br>Predicting SNOW, APPL, AMZN, and GOOGL opens using public sentiment such as WSJ, Aftermarket, etc.<br><br>
+[Predicting Stock Market Opens Using Public Sentiment](https://github.com/s1imreaper/vault/blob/main/Sentiment%20Stock%20Market%20Forecaster.ipynb))<br>Predicting SNOW, APPL, MSFT, and GOOGL opens using public sentiment such as WSJ and Aftermarket.<br><br>
 
 
 ## notebooks
